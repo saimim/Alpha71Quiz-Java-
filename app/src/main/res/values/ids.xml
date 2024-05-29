@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="Home" type="id" />
+    <item name="Board" type="id" />
+    <item name="favorites" type="id" />
+    <item name="profile" type="id" />
+</resources>
